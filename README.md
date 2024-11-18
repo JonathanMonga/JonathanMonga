@@ -8,10 +8,10 @@
 - 📫 Creative Writer at : [Medium](https://medium.com/@jonathanmonga)
 
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JonathanMonga\&layout=compact&theme=github_dark_dimmed)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JonathanMonga&layout=compact&theme=github_dark_dimmed)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMonga\&layout=compact&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMonga&layout=compact&theme=github_dark_dimmed)
 
 ### Follow me:
 
